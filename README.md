@@ -1,0 +1,1 @@
+# JavaScript-Class-Inheritence-2
